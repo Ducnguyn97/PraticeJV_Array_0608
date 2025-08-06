@@ -1,3 +1,5 @@
+package Pratice;
+
 import java.util.Scanner;
 
 public class tranferTemperator {
