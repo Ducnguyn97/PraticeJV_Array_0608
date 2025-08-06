@@ -23,6 +23,8 @@ public class tranferTemperator {
                     System.out.println("Nhập vào độ C: ");
                     c = Double.parseDouble(scanner.next());
                     System.out.println("Celcius to fahrenheit: "+ clesiusToFahrenheit(c));
+                case 0:
+                    System.exit(0);
             }
         } while(choice!=0);
 
